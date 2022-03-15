@@ -24,4 +24,4 @@ Build the game to LINUX with this command: "./build-linux"
 or
 Build the game to WEB with this command: "./build-web"
 
-NOTE: Building to Windows don't work yet
+NOTE: Building to Windows doesn't work yet
