@@ -15,6 +15,8 @@ Run the command in terminal: "./build/linux-build.desktop"
 
 [WEB]
 Go to the webpage "https://devvs.itch.io/roadrun"
+Click on the "Play" button, but please don't click out of the canvas, because it can't grab your keyboard focus again [BUG]
+Currently It only worked on Firefox, for some reason, but I try to make it work on Chrome too!
 
 # How To Rebuild
 
