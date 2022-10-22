@@ -20,7 +20,7 @@ Currently It only worked on Firefox, for some reason, but I try to make it work 
 
 # How To Rebuild
 
-[Linux]
+_Linux_
 Install the compilers using this command: "./install-compilers"
 Build the game to LINUX with this command: "./build-linux"
 or
