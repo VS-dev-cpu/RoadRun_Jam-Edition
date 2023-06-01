@@ -1,5 +1,4 @@
 # RoadRun
-Game made for a Game Jam
 
 This game was made for the Endless Jam 2022 with SDL2 by the BurnOUT team.
 
@@ -7,4 +6,4 @@ This game was made for the Endless Jam 2022 with SDL2 by the BurnOUT team.
 
 The Game is playable on itch.io: https://github.com/VS-dev-cpu/roadrun-jam
 
-There is a new project called "RoadRun 2", that will be released here: https://github.com/VS-dev-cpu/RoadRun
+(We are planning to release a second, better version of this game)
